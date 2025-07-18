@@ -1,0 +1,22 @@
+[
+    {
+      "title": "Introduction to Spring Boot",
+      "description": "Learn Spring Boot fundamentals",
+      "category": "Programming",
+      "level": "Beginner",
+      "price": 49.99,
+      "durationHours": 10,
+      "createdDate": "2023-01-15T10:00:00",
+      "published": true
+    },
+    {
+      "title": "Advanced Elasticsearch",
+      "description": "Master Elasticsearch queries and aggregations",
+      "category": "Database",
+      "level": "Advanced",
+      "price": 79.99,
+      "durationHours": 15,
+      "createdDate": "2023-02-20T14:30:00",
+      "published": true
+    }
+  ]
